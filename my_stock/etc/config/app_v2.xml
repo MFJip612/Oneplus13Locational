@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <app version="1.0">
-  <disable pkg="com.android.contacts" priority="10"/>
-  <disable pkg="com.android.mms" priority="10"/>
   <enable pkg="com.coloros.compass2" priority="10"/>
   <disable pkg="com.google.android.euicc" priority="10"/>
   <enable pkg="com.google.android.euicc" priority="9"/>
