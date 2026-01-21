@@ -1,0 +1,22 @@
+# build prop start
+ro.oplus.image.my_region.type=CN_all
+ro.oplus.image.my_region.date=2025-11-17 16:12:55
+ro.oplus.image.my_region.date.utc=1763367175
+ro.oplus.pipeline.region=CN
+ro.vendor.oplus.regionmark=CN
+ro.vendor.oplus.radio.cn_nvbk=TRUE
+ro.vendor.oplus.radio.cn_ims_register=true
+ro.vendor.oplus.radio.cn_use_3gpp2=true
+ro.vendor.oplus.modemdump_enable=1
+ro.vendor.oplus.radio.carrier_detect_mode=1
+persist.sys.oplus.radio.default_sa=true
+ro.oplus.ltw.domestic=true
+ro.oplus.radio.auto_nr_mode=3
+ro.oplus.radio.auto_nr_mode_sub=3
+ro.oplus.bpf.region.support=1
+persist.sys.ocloud.newurl=https://ostorage-ocloud-cn.allawntech.com
+ro.oplus.server_url_1=https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=
+persist.sys.ocloud.encode.alg=RSA/ECB/PKCS1Padding
+remote_provisioning.hostname=crypto-proxy-cn.allawntech.com
+ro.oplus.image.my_region.version=16.0.0361.2025111716075234622832.bd41d02d

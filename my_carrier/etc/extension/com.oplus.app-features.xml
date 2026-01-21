@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extend_features>
+	<app_feature name="com.android.systemui.keyguard_show_pinpukremains"/>
+</extend_features>
+<!-- Timestamp 2025-09-04T16:02:25 #969913 -->
