@@ -1,7 +1,0 @@
-id=locational_oneplus13
-name=一加13 OxygenOS 本地化模块
-version=1.5
-versionCode=1500605
-author=MFJip
-description=仅适用于OxygenOS 16
-updateJson=https://raw.githubusercontent.com/MFJip612/Oneplus13Locational/main/ModuleUpdate.json
